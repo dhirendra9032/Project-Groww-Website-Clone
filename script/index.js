@@ -112,8 +112,8 @@ function loginPopUpClose() {
 // Login functionallity
 let userArray = [
     {
-        mailId: "santoshmane619@gmail.com",
-        password: "1234",
+        mailId: "dhirendra9032@gmail.com",
+        password: "12345",
     },
 ];
 let email = document.getElementById("signup-form-title-input-box");
